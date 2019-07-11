@@ -10,8 +10,9 @@ namespace LearnGit.Console
     {
         static void Main(string[] args)
         {
-            int i = 1;
+            string m = "m";
             int j = 2;
+            string a = "a";
         }
     }
 }
